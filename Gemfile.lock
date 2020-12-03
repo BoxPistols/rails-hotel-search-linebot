@@ -82,6 +82,7 @@ GEM
       concurrent-ruby (~> 1.0)
     jbuilder (2.10.1)
       activesupport (>= 5.0.0)
+    line-bot-api (1.16.0)
     loofah (2.8.0)
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
@@ -194,6 +195,7 @@ DEPENDENCIES
   byebug
   capybara (>= 2.15)
   jbuilder (~> 2.7)
+  line-bot-api
   puma (~> 4.1)
   rails (~> 6.0.3, >= 6.0.3.4)
   sass-rails (>= 6)
